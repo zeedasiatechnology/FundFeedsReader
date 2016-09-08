@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<template>
+	<description>MT-002-101 - Daily Fund Price Update</description>
+	<subject>InveztPro Daily Fund Price Update</subject>
+	<content>
+
+<p>Dear<span>&nbsp;</span>all,&nbsp;</p>
+<p>InveztPro Daily Fund Price Update was completed with the following status:</p>
+<p>${message}</p>
+<p>Yours faithfully,</p>
+<p>Zeed Asia Technology Limited</p>
+<p><em>*This is an automated notification email. Please do not reply to this email.</em></p>
+
+	</content>
+</template>
